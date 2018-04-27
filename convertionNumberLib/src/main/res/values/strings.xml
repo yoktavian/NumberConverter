@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">currencyLib</string>
+    <string name="currency_format">%1$s %2$s</string>
+</resources>
