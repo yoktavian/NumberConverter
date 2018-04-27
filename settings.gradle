@@ -1,1 +1,1 @@
-include ':app', ':convertlib'
+include ':convertlib'
