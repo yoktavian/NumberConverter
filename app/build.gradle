@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.yoktavian'
+
+group='com.github.yoktavian'
 
 android {
     compileSdkVersion 27
